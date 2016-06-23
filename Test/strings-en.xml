@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="device_list">Device List</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="password_modify">Modify Password</string>
+    <string name="screen_camera">Camera</string>
+    <string name="screen_camera_settings">Camera Setting</string>
+    <string name="screen_clock">Alarm Clock</string>
+    <string name="screen_gallery">Gallery</string>
+    <string name="screen_contacts">Contacts</string> 
+    <string name="screen_contacts_exist">Contact Exist</string>
+    <string name="screen_app_detial">App Detail</string>
+    <string name="screen_app_permission">App Permission</string>
+    <string name="device_info">Device Info</string>
+    <string name="screen_calendar">Calendar</string>
+    <string name="screen_app_world">App World</string>
+    <string name="screen_help">Help</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="personal_info_modify">Modify Personal Info</string>
+     <string name="personal_info_modify_failed">Modify failed</string>
+    <string name="creator_qrcode">QR Code</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="device_list">设备列表</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="device_list">设备列表</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="password_modify">修改密码</string>
+    <string name="screen_clock">闹钟</string>
+    <string name="screen_gallery">图库</string>
+    <string name="screen_contacts">联系人</string>
+    <string name="screen_app_detial">应用详情</string>
+    <string name="personal_info">个人信息</string>
+    <string name="personal_info_modify">修改个人信息</string>
+    <string name="creator_qrcode">二维码</string>
+    
+    <!-- Server Error Text -->
+    <string name="server_connect_failed">无法连接到网络，请检查网络配置</string>
+    <string name="server_login_error">登录信息输入错误</string>
+    <string name="server_error_exist_contact">联系人已存在</string>
+    <string name="modify_failed">修改失败</string>
+</resources>

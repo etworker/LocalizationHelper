@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="device_list">设备列表</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="password_modify">修改密码</string>
+    <string name="screen_camera">照相机</string>
+    <string name="screen_camera_settings">相机设置</string>
+    <string name="screen_clock">闹钟</string>
+    <string name="screen_gallery">图库</string>
+    <string name="screen_contacts">联系人</string>
+    <string name="screen_contacts_exist">联系人已存在</string>
+    <string name="screen_app_detial">应用详情</string>
+    <string name="screen_app_permission">权限信息</string>
+    <string name="device_info">设备信息</string>
+    <string name="screen_calendar">日历</string>
+    <string name="screen_app_world">应用世界</string>
+    <string name="screen_help">帮助</string>
+    <string name="personal_info">个人信息</string>
+    <string name="personal_info_modify">修改个人信息</string>
+    <string name="personal_info_modify_failed">修改失败</string>
+    <string name="creator_qrcode">二维码</string>
+</resources>
