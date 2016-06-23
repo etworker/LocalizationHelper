@@ -1,0 +1,2 @@
+# LocalizationHelper
+读取已有的Android本地化资源文件strings.xml，应用到仅有中文的资源文件上，生成对应的英文资源文件
