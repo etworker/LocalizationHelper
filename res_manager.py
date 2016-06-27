@@ -164,12 +164,12 @@ class res_manager:
                 res_id = m.group(1)
                 word = m.group(2)
                 if contains_zh(word):
-                    if self.reswords.has_key(res_id):
-                        newline = newline.replace(word, self.reswords[res_id].words[0])
+                    if self.reswords.has_key(res_id) and self.reswords[res_id].words[0] != "":
+                        newline = newline.replace(word, self.reswords[res_id].words[0])                        
                     else:
                         if self.reverse_map.has_key(word):
                             newline = newline.replace(word, self.reverse_map[word])
-
+                    
             fo.write(newline.encode('utf-8'))
 
         fi.close()
